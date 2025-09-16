@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Auchitya, a student pursuing my MCA in Software Engineering. I specialize in Python, C/C++, and Java, focusing on web development, ML and data science.<br><br>🌱 Check out my projects. I’m passionate about building innovative solutions and contributing to open source.<br><br>💡 Let’s connect and collaborate!
+# About Me:
+Hi, I'm Auchitya, a student pursuing my MCA in Software Engineering. I specialize in Python, C/C++, and Java, focusing on web development, ML and data science.<br><br>Check out my projects. I’m passionate about building innovative solutions and contributing to open source.<br><br>💡 Let’s connect and collaborate!
 
 
 ## 🌐 Socials:
